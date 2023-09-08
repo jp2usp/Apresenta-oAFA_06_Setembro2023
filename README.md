@@ -6,4 +6,4 @@ visualizações. O desenvolvimento é iniciado com a apresentação de uma intro
 para tratar transformações de rotações, homotetias e translações com objetivo de composição de figuras com simetria radial. Por fim, o modelo RGB de cores é explorado
 para adicionar efeitos que podem ser considerados surpreendentes. Alguns elementos de estatística são explorados no processo de coloração das homotetias sucessivas, 
 outros elementos focam na exploração de elementos de programação e matemática (progressão geométrica e contagens). Por fim, as possibilidades de utilização parecem 
-direcionar para um amplo potencial de exploração do método de construção.
+direcionar para um amplo potencial de exploração do método de construção.  O arquivo compilado em .pdf não é aceito aqui devido ao tamanho maior que 25mb.
